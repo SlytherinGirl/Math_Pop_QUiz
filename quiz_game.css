@@ -1,0 +1,8 @@
+#output{
+    background:linear-gradient(#b7acf8 0%, rgb(235, 181, 230) 100%);
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left; 
+}
